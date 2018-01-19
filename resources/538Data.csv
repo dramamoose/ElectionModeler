@@ -1,2 +1,3 @@
-﻿CongressGeneric,https://projects.fivethirtyeight.com/generic-ballot-data/generic_polllist.csv
+﻿Poll Name,URL
+CongressGeneric,https://projects.fivethirtyeight.com/generic-ballot-data/generic_polllist.csv
 TrumpApproval,https://projects.fivethirtyeight.com/trump-approval-data/approval_polllist.csv
